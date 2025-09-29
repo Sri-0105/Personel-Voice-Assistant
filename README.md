@@ -39,12 +39,7 @@ Web Speech API – For speech recognition and text-to-speech.
 
 Clone this repository:
 
-git clone https://github.com/your-username/personal-voice-assistant.git
-
-
-Navigate into the project folder:
-
-cd personal-voice-assistant
+git clone https://github.com/Sri-0105/personal-voice-assistant.git
 
 
 Open index.html in your browser.
